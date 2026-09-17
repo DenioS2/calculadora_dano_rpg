@@ -1,0 +1,8 @@
+#BlueJ class context
+#Thu Sep 17 20:29:22 BRT 2026
+comment0.target=CalculadoraRPG
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+comment2.params=e
+comment2.target=void actionPerformed(java.awt.event.ActionEvent)
+numComments=3
